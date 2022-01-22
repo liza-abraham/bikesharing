@@ -1,7 +1,8 @@
 # bikesharing
 
-##Using NYC Citibike Data to gauge the viability of Citibike in Des Moines
-###Introduction:
+## Using NYC Citibike Data to gauge the viability of Citibike in Des Moines
+
+Introduction:
 
 Though they are in many ways very different cities, New York and Des Moines run along the same line of longitude and have similar weather patterns - with August being one of the driest and most temperate months. This analysis will examine the following for August 2019 usage of Citibike in New York, pursuant to: 
 
