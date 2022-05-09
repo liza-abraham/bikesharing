@@ -1,5 +1,7 @@
 # bikesharing
 
+HERE IS THE TABLEAU LINK: https://prod-useast-a.online.tableau.com/#/site/lizastableauplayground/workbooks/508918?:origin=card_share_link
+
 ## Using NYC Citibike Data to gauge the viability of Citibike in Des Moines
 
 ### Introduction:
@@ -21,3 +23,4 @@ The one exception to this is Saturday where this high usage around midday, with 
  - Citibike is a tenable business model for a city in which there is a large male customer base willing to become subscribers, and use the bike to commute and to and from work. 
 
  - In addition, there is an income stream to be had during the midday on the weekends when all genders, as well as subscribers and non-subscribers, use the bikes for recreation.
+
